@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "HomePage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "adityaCardComponent": {
+      "type": "component",
+      "repeatable": true,
+      "component": "card.cards"
+    }
+  }
+}
