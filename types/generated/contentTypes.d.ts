@@ -401,7 +401,7 @@ export interface ApiFaqformFaqform extends Struct.CollectionTypeSchema {
 export interface ApiHomepageHomepage extends Struct.SingleTypeSchema {
   collectionName: 'homepages';
   info: {
-    displayName: 'HomePage';
+    displayName: 'homePage';
     pluralName: 'homepages';
     singularName: 'homepage';
   };

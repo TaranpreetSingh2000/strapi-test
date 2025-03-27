@@ -4,7 +4,7 @@
   "info": {
     "singularName": "homepage",
     "pluralName": "homepages",
-    "displayName": "HomePage"
+    "displayName": "homePage"
   },
   "options": {
     "draftAndPublish": true
